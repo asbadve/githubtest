@@ -35,15 +35,19 @@
         </activity>
         <activity
             android:name=".BnvActivity"
-            android:label="@string/title_activity_bnv"></activity>
+            android:label="@string/title_activity_bnv" />
         <activity android:name=".MasterBranchActivity" />
         <activity
             android:name=".LoginActivity"
-            android:label="@string/title_activity_login"></activity>
+            android:label="@string/title_activity_login" />
         <activity android:name=".MasterBranchActivity" />
         <activity
             android:name=".MainActivity"
             android:label="@string/title_activity_main"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".FeatureDActivity"
+            android:label="@string/title_activity_feature_d"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
