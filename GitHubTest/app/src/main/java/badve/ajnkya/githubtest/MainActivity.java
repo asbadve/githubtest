@@ -48,6 +48,28 @@ public class MainActivity extends AppCompatActivity {
         mViewPager = (ViewPager) findViewById(R.id.container);
         mViewPager.setAdapter(mSectionsPagerAdapter);
 
+        /*
+        * THis is the big change
+        * /home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java
+        * /home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java
+        *
+        * /home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java
+        * /home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java
+        * /home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java
+        * /home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java
+        * /home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java/home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java/home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java
+        *
+        *
+        *
+        * /home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java
+        *
+        *
+        * /home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java
+        *
+        *
+        *
+        * */
+
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
@@ -66,6 +88,27 @@ public class MainActivity extends AppCompatActivity {
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.menu_main, menu);
         return true;
+         /*
+        * THis is the big change
+        * /home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java
+        * /home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java
+        *
+        * /home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java
+        * /home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java
+        * /home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java
+        * /home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java
+        * /home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java/home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java/home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java
+        *
+        *
+        *
+        * /home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java
+        *
+        *
+        * /home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java
+        *
+        *
+        *
+        * */
     }
 
     @Override
@@ -111,6 +154,28 @@ public class MainActivity extends AppCompatActivity {
         @Override
         public View onCreateView(LayoutInflater inflater, ViewGroup container,
                                  Bundle savedInstanceState) {
+
+             /*
+        * THis is the big change
+        * /home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java
+        * /home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java
+        *
+        * /home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java
+        * /home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java
+        * /home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java
+        * /home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java
+        * /home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java/home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java/home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java
+        *
+        *
+        *
+        * /home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java
+        *
+        *
+        * /home/ajinkyabadve/Documents/Ajinkya_imp/android_app/gittest/githubtest/GitHubTest/app/src/main/java/badve/ajnkya/githubtest/MainActivity.java
+        *
+        *
+        *
+        * */
             View rootView = inflater.inflate(R.layout.fragment_main, container, false);
             TextView textView = (TextView) rootView.findViewById(R.id.section_label);
             textView.setText(getString(R.string.section_format, getArguments().getInt(ARG_SECTION_NUMBER)));
