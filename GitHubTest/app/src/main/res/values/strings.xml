@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">GitHubTest</string>
     <string name="title_item_detail">Item Detail</string>
+    <string name="title_activity_bnv">BnvActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
     <string name="title_activity_login">Sign in</string>
 
     <!-- Strings related to login -->

@@ -33,6 +33,9 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="badve.ajnkya.githubtest.ItemListActivity" />
         </activity>
+        <activity
+            android:name=".BnvActivity"
+            android:label="@string/title_activity_bnv"></activity>
         <activity android:name=".MasterBranchActivity" />
         <activity
             android:name=".LoginActivity"
